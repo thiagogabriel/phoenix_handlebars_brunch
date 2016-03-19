@@ -1,12 +1,10 @@
 # PhoenixHandlebarsBrunch
 
 # The problem
+I can't find a way to import Handlebars on ES6
 
 ```
-Uncaught TypeError: Cannot set property 'Handlebars' of undefined
-
-webpackUniversalModuleDefinition @ app.js:1207
-(anonymous function) @ app.js:1208
+Uncaught TypeError: Handlebars.compile is not a function
 ```
 
 # Related Issue on Github
