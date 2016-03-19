@@ -1,6 +1,19 @@
 # PhoenixHandlebarsBrunch
 
-To start your Phoenix app:
+# The problem
+
+```
+Uncaught TypeError: Cannot set property 'Handlebars' of undefined
+
+webpackUniversalModuleDefinition @ app.js:1207
+(anonymous function) @ app.js:1208
+```
+
+# Related Issue on Github
+
+[Issue handlebars-brunch#51](https://github.com/brunch/handlebars-brunch/issues/51)
+
+# To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
   * Install Node.js dependencies with `npm install`
